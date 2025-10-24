@@ -20,7 +20,7 @@ In this case it's important to remember that no one can see your Codespace but y
 
 Colab is a Jupyter notebook environment from Google. If you have a Google email address, you have access to Colab. Direct your browser to [Colab](https://colab.research.google.com/). In the File menu, click Open notebook, click on Github, paste the following URL in the text box:
 ```text
-https://github.com/lgreco/comp-363-f25-week04
+https://github.com/lgreco/comp-363-f25-week08
 ```
 and then press Tab or click on the search button (it looks like a magnifying glass). You'll see the notebook `assignment.ipynb` appearing in the list. Click on the `open assignment.ipynb in new tab` button -- it looks like a square with an arrow pointing out.
 
