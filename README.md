@@ -1,4 +1,4 @@
-# Week 04: Dynamic Programming
+# Week 08: Discrete Event Simulator
 
 The assignment can be found in the Jupyter notebook named [assignment.ipynb](./assignment.ipynb).
 
